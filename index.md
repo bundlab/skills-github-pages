@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog!
+date: 2027-07-09
 ---
 
 # 🚀 GitHub Practical Lessons
