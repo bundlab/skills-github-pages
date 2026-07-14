@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my blog"
-date: 2027-07-02
+date: 2026-07-14
 ---
 
 ### 🎉 Welcome to the GitHub Practical Lessons Hub!
